@@ -377,15 +377,3 @@ The agent follows this loop:
 5. **Code Execution**: Dynamically generates and runs Python for complex data tasks
 6. **Playwright for Scraping**: Handles JavaScript-rendered pages that `requests` cannot
 7. **uv for Dependencies**: Fast package resolution and installation
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-**Author**: Shaikh Md Khasim Basith Nawaz
-**Course**: Tools in Data Science (TDS)
-**Institution**: IIT Madras
-
-For questions or issues, please open an issue on the [GitHub repository](https://github.com/23f3002766/tds-geniesolver).
