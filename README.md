@@ -1,6 +1,6 @@
 ---
 title: LLM Analysis Quiz Solver
-emoji: 🏃
+emoji: 👍
 colorFrom: red
 colorTo: blue
 sdk: docker
